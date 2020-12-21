@@ -3,7 +3,7 @@
 ## Installation
 Require this package with composer. 
 ```   
-composer require hungthai1401/laravel-application-version
+composer require coachr/mobile-app-version-checker
 ```
 
 - #### Laravel 5.5+:

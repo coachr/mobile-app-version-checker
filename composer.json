@@ -1,5 +1,5 @@
 {
-    "name": "hungthai1401/laravel-application-version",
+    "name": "coachr/mobile-app-version-checker",
     "description": "Simple way to get app market version information from Google Play store or Apple App Store",
     "type": "library",
     "license": "MIT",
@@ -10,11 +10,11 @@
             "email": "hungthai1401.it@gmail.com"
         }
     ],
-    "homepage": "https://github.com/hungthai1401/laravel-application-version",
+    "homepage": "https://github.com/coachr/mobile-app-version-checker",
     "require": {
         "php": ">=7.1",
         "ext-json": "*",
-        "illuminate/support": "^5.5|^6",
+        "illuminate/support": "^7",
         "guzzlehttp/guzzle": "^6.5",
         "symfony/dom-crawler": "^5.0",
         "symfony/css-selector": "^4.3|^5.0"
